@@ -5,4 +5,8 @@ I was tasked with supporting a cross-border M&A origination project for WorldWid
 
 ## Task 1: Find some M&A targets
 I received a Phone call transcript and Phone call transcript notes from my manager. 
-[![View Notes](https://img.shields.io/badge/View-Call_Notes-blue?style=for-the-badge)](https://github.com/ResChougule/J.P.Morgan/blob/main/Task%201%20-%20Notes%20From%20Call%20v2.pdf)
+
+----
+[![View](https://img.shields.io/badge/View-Call_Notes-blue?style=for-the-badge)](https://github.com/ResChougule/J.P.Morgan/blob/main/Task%201%20-%20Notes%20From%20Call%20v2.pdf)
+
+----
