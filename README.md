@@ -4,4 +4,4 @@ I was tasked with supporting a cross-border M&A origination project for WorldWid
 
 
 ## Task 1: Find some M&A targets
-I received a call transcript and  call transcript notes from my manager. 
+I received a Phone call transcript and Phone call transcript notes from my manager. 
